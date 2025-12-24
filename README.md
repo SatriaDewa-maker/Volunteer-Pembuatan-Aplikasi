@@ -1,4 +1,4 @@
-# Volunteer-Pembuatan-Aplikasi
+# Volunteer Pembuatan Aplikasi
 Repository ini digunakan sebagai sayembara volunteer pembuatan aplikasi [Dicoding](www.dicoding.com).<br>
 Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya.<br>
 
